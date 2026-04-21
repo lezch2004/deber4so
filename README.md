@@ -1,4 +1,4 @@
-# Algoritmo del Banquero
+# Deber 4: Algoritmo del Banquero
 
 ## Integrantes del grupo
 
